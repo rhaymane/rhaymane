@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Sou graduanda em Análise e Desenvolvimento de Sistemas, com foco em dados e programação. Atuo com análise, organização e tratamento de dados, utilizando Python para manipulação de datasets, automação de rotinas e análises exploratórias, além de SQL para consultas, extração e estruturação de informações em bases relacionais.</p>
+<p align="left">Sou graduanda em Análise e Desenvolvimento de Sistemas, com foco em dados e programação. Atuo com análise, organização e tratamento de dados, utilizando Python para manipulação de datasets, automação de rotinas e análises exploratórias, além de SQL para consultar e organizar dados em bancos relacionais.</p>
 
 ###
 
@@ -20,10 +20,4 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhaymane/rhaymane/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhaymane/rhaymane/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rhaymane/rhaymane/output/pacman-contribution-graph.svg">
-</picture>
 
-###
